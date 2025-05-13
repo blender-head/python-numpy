@@ -35,3 +35,9 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Creating Array Using `ones`
     - Get Array Size
     - Create Array Using `random`
+- `03_slicing_and_indexing.ipynb`:
+    - Basic Indexing
+    - Slicing Array
+    - Advanced Indexing
+    - Key Differences Between Indexing & Slicing
+    - Notes on Slicing and Indexing 
