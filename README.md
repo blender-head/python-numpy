@@ -26,3 +26,12 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
 ## File List
 - `00_numpy_intro.ipynb`:
     - NumPy introduction
+- `01_creating_arrays.ipynb`:
+    - NumPy array definition
+    - Understanding Dimensions in Arrays
+    - Create Array Using `arange`
+    - Create Array Using `linspace`
+    - Creating Array Using `zeros`
+    - Creating Array Using `ones`
+    - Get Array Size
+    - Create Array Using `random`
