@@ -18,3 +18,7 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
 
 5. Memory Efficiency:
     - Uses contiguous memory blocks, making it faster than Python lists.
+  
+## Tutorial Source
+
+[Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
