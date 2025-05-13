@@ -47,3 +47,5 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Resize an array
     - Transpose an array
     - Swapaxes an array
+- `05_stacking_and_splitting.ipynb`:
+    - stacking and splitting array
