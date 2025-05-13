@@ -21,4 +21,4 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
   
 ## Tutorial Source
 
-[Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+[Numpy Full Course](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
