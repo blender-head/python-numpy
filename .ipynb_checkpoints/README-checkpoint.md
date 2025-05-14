@@ -95,4 +95,6 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
         - `lcm.reduce`
     - Rounding Functions using:
         - `ceil`
-        - `floor` 
+        - `floor`
+- `08_numpy_and_panda.ipynb`:
+    - todo 
