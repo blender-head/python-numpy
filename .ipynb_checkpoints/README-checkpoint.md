@@ -97,4 +97,17 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
         - `ceil`
         - `floor`
 - `08_numpy_and_panda.ipynb`:
-    - todo 
+    - todo
+- `09_statistic_functions.ipynb`:
+    - Calculate mean using `mean`
+    - Calculate median using `median`
+    - Calculate variance using `var`
+    - Calculate standard deviation using `std`
+    - Calculate minimun using `min`
+    - Calculate maximum using `max`
+    - Calculate product using `prod`
+    - Calculate quantiles using `quantile`
+    - Calculate correlation using `corrcoef`
+    - Calculate covariance using `cov`
+    - Create histogram using `histogram` and `histogram2d`
+    - Calculate convolution using `convolve`
