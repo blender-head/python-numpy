@@ -41,7 +41,8 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Advanced Indexing
     - Key Differences Between Indexing & Slicing
     - Notes on Slicing and Indexing
-- `04_modifying_arrays.ipynb`:
+- `04_shaping_arrays.ipynb`:
+    - Array Shape concept
     - Reshape an array
     - Flatten an array
     - Resize an array
