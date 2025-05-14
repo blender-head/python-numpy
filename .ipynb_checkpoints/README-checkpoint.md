@@ -50,3 +50,5 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Swapaxes an array
 - `05_stacking_and_splitting.ipynb`:
     - stacking and splitting array
+- `copying_array.ipynb`:
+    - copying array
