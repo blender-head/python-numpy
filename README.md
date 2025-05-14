@@ -111,3 +111,20 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Calculate covariance using `cov`
     - Create histogram using `histogram` and `histogram2d`
     - Calculate convolution using `convolve`
+- `10_trigonometric_functions .ipynb`:
+    - Basic Trigonometric Functions:
+        - `sin`
+        - `cos`
+        - `tan`
+    - Inverse Trigonometric Functions:
+        - `arcsin`
+        - `arccos`
+        - `arctan`
+        - `arctan2`
+    - Hyperbolic Trigonometric Functions:
+        - `sinh`
+        - `cosh`
+        - `tanh`
+    - Angle Conversion Functions:
+        - `deg2rad`
+        - `rad2deg`    
