@@ -43,12 +43,56 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Notes on Slicing and Indexing
 - `04_shaping_arrays.ipynb`:
     - Array Shape concept
-    - Reshape an array
-    - Flatten an array
-    - Resize an array
-    - Transpose an array
-    - Swapaxes an array
+    - Check array shape using `shape`
+    - Reshape an array using `reshape`
+    - Flatten an array using `flatten`
+    - Resize an array using `resize`
+    - Transpose an array using `transpose` and `ndarray.T attribute`
+    - Swap axes an array `swapaxes`
 - `05_stacking_and_splitting.ipynb`:
-    - stacking and splitting array
+    - Stacking array using:
+        - `stack`
+        - `vstack`
+        - `dstack`
+    - Splitting array using:
+        - `split`
+        - `vsplit`
+        - `hsplit`
+        - `dsplit`
+    - Real-World Applications of Stacking and Splitting Arrays in NumPy
 - `copying_array.ipynb`:
-    - copying array
+    - Copying array using:
+        - `copy`
+        - `np.copy`
+- `07_basic_math.ipynb`:
+    - Arithmetic Operations using :
+        - `add`
+        - `subtract`
+        - `multiply`
+        - `divide`
+        - `power`
+        - `sqrt`
+        - `sin`
+        - `sbs`
+    - Aggregation Operations using:
+        - `sum`
+        - `min`
+        - `max`
+        - `mean`
+        - `std`
+        - `argmax`
+    - Matrix Operations using:
+        - `dot`
+    - Cumulative Sum using:
+        - `cumsum`
+    - Logarithmic Operations using:
+        -  `log`
+        -  `log2`
+        -  `log10`
+    - Greatest Common Divisor (GCD) using:
+        - `gcd.reduce`
+    - Least Common Multiple (LCM) using:
+        - `lcm.reduce`
+    - Rounding Functions using:
+        - `ceil`
+        - `floor` 
