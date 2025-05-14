@@ -127,4 +127,32 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
         - `tanh`
     - Angle Conversion Functions:
         - `deg2rad`
-        - `rad2deg`    
+        - `rad2deg`
+- `11_matrix_functions.ipynb`:
+    - Matrix Creation:
+        - `numpy.array()`
+        - `numpy.matrix()`
+        - `numpy.eye()`
+        - `numpy.zeros()`
+        - `numpy.ones()`
+    - Matrix Operations:
+        - `numpy.dot()`
+        - `numpy.transpose()` or `.T`
+        - `numpy.linalg.inv()`
+        - `numpy.linalg.det()`
+        - `numpy.trace()`
+        - `numpy.linalg.multi_dot`
+    - Eigenvalues & Eigenvectors:
+        - `numpy.linalg.eig()`
+        - `numpy.linalg.eigvals()`
+    - Matrix Decomposition:
+        - `numpy.linalg.svd()`
+        - `numpy.linalg.qr()`
+        - `numpy.linalg.cholesky()`
+    - Solving Linear Equations:
+        - `numpy.linalg.solve()`
+        - `numpy.linalg.lstsq()`
+    - Matrix Norms:
+        - `numpy.linalg.norm()`
+    - Matrix Exponentiation
+        - `numpy.linalg.matrix_power()`
