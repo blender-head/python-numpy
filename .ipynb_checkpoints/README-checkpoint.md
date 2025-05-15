@@ -170,3 +170,16 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Calculates the internal rate of return for a series of cash flows using `irr` function
     - Calculates the number of periods for an investment using `nper` function
     - Calculates the interest rate per period using `rate`function
+- `14_comparison_functions.ipynb`:
+    - Comparison Functions:
+        - `numpy.equal` or `==`
+        - `numpy.not_equal` or `!=`
+        - `numpy.greater` or `>`
+        - `numpy.greater_equal` or `>=`
+        - `numpy.less` or `<`
+        - `numpy.less_equal` or `<=`
+        - `numpy.array_equal`
+        - `numpy.logical_and`
+        - `numpy.logical_or`
+        - `numpy.logical_not`
+        - `numpy.isclose`
