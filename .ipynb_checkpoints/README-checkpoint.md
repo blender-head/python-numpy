@@ -161,3 +161,12 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Loading Numpy Object using `load`
     - Saving Numpy Object as CSV using `savetxt`
     - Loading CSV file `loadtxt`
+- `13_numpy_financial.ipynb`:
+    - Install numpy_financial library `pip install numpy-financial` 
+    - Calculates the future value of an investment using `fv` function
+    - Calculates the present value of an investment using `pv` function
+    - Calculates the payment for a loan using `pmt` function
+    - Calculates the net present value of a cash flow series using `npv` function
+    - Calculates the internal rate of return for a series of cash flows using `irr` function
+    - Calculates the number of periods for an investment using `nper` function
+    - Calculates the interest rate per period using `rate`function
