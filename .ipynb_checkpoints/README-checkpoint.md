@@ -111,7 +111,7 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Calculate covariance using `cov`
     - Create histogram using `histogram` and `histogram2d`
     - Calculate convolution using `convolve`
-- `10_trigonometric_functions .ipynb`:
+- `10_trigonometric_functions.ipynb`:
     - Basic Trigonometric Functions:
         - `sin`
         - `cos`
@@ -155,4 +155,9 @@ NumPy (Numerical Python) is a fundamental Python library for scientific computin
     - Matrix Norms:
         - `numpy.linalg.norm()`
     - Matrix Exponentiation
-        - `numpy.linalg.matrix_power()`
+        - `numpy.linalg.matrix_power()`   
+- `12_saving_and_loading.ipynb`:
+    - Saving NumPy Object using `save`
+    - Loading Numpy Object using `load`
+    - Saving Numpy Object as CSV using `savetxt`
+    - Loading CSV file `loadtxt`
